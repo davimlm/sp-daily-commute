@@ -102,5 +102,7 @@ sp-daily-commute/
    visualização e análise de rede (grau, centralidade, comunidades etc.).
 
 ## Autores
+Davi Monteiro Lima e Guilherme Siqueira
+
 
 Trabalho desenvolvido para a disciplina de Comunicação e Redes — UFABC, 2026.
